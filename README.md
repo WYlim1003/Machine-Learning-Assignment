@@ -19,17 +19,17 @@ The analysis is based on the **Hourly Origin-Destination Ridership dataset** for
 ### 📂 Dataset Files
 | File Name | Link |
 |----------|------|
-| komuter_2025.csv | [https://drive.google.com/file/d/1rKTK2OFILLiZrquNqcbQTF6A4bEpkDmr/view?usp=sharing] |
-| weather.csv | [https://drive.google.com/file/d/1Ya7byH31Mj345XkmvzIIsMOXdcGMzOIx/view?usp=sharing] |
-| fuelprice.csv | [https://drive.google.com/file/d/15Z8FeZ1zLs3OMvJ3Jqpc9QOKrlhkvips/view?usp=sharing] |
-| public_holiday_2025.csv | [https://drive.google.com/file/d/1mM-nJdGWq9MMBlPvXbs6iJ6tuSfMwbDF/view?usp=sharing] |
+| komuter_2025.csv | https://drive.google.com/file/d/1rKTK2OFILLiZrquNqcbQTF6A4bEpkDmr/view?usp=sharing |
+| weather.csv | https://drive.google.com/file/d/1Ya7byH31Mj345XkmvzIIsMOXdcGMzOIx/view?usp=sharing |
+| fuelprice.csv | https://drive.google.com/file/d/15Z8FeZ1zLs3OMvJ3Jqpc9QOKrlhkvips/view?usp=sharing |
+| public_holiday_2025.csv | https://drive.google.com/file/d/1mM-nJdGWq9MMBlPvXbs6iJ6tuSfMwbDF/view?usp=sharing |
 
 ---
 
 ## 🚀 Deliverables
-- 📓 **Google Colab Notebook** → [View Code & Analysis](#)  
-- 🎨 **Presentation Slides** → [View on Canva](#)  
-- 🎥 **Video Presentation** → [Watch 5-Minute Summary](#)  
+- 📓 **Google Colab Notebook** → [View Code & Analysis](https://colab.research.google.com/drive/1zH5PZdU1j9P93NzST4F4pcdcTAPbH2d1?usp=sharing)
+- 🎨 **Presentation Slides** → [View on Canva](https://canva.link/c39pp98tzkl2x8q)  
+- 🎥 **Video Presentation** → [Watch 5-Minute Summary](https://drive.google.com/file/d/1tsPmFdHaEQ4-1mtIEjnWyrmFvuodSEFJ/view?usp=sharing)  
 
 ---
 
@@ -43,8 +43,8 @@ The analysis is based on the **Hourly Origin-Destination Ridership dataset** for
 ## 📖 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-```
+   git clone https:https://github.com/WYlim1003/Machine-Learning-Assignment.git
+````
 
 2. Install required dependencies:
 Refer to Import pandas from zoo_Group Project.pdf or the notebook

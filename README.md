@@ -42,9 +42,9 @@ The analysis is based on the **Hourly Origin-Destination Ridership dataset** for
 
 ## 📖 How to Use
 1. Clone this repository:
-   ```bash
-   git clone https:https://github.com/WYlim1003/Machine-Learning-Assignment.git
-````
+```bash
+   git clone https://github.com/WYlim1003/Machine-Learning-Assignment.git
+```
 
 2. Install required dependencies:
 Refer to Import pandas from zoo_Group Project.pdf or the notebook
